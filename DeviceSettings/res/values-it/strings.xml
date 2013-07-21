@@ -13,7 +13,7 @@
     <string name="accelerometer_dialog_head">Calibrazione effettuata</string>
     <string name="accelerometer_dialog_message">Il sensore è stato correttamente calibrato.</string>
 	<!-- Avanzate -->
-	<string name="category_advanced_title">Avanzate</string>
+    <string name="category_advanced_title">Avanzate</string>
     <string name="deepest_sleep_title_head">Profondissimo Deep Sleep</string>
     <string name="deepest_sleep_summary_head">Specifica il più alto livello di deep sleep</string>
 	<!-- **Schermo** -->
@@ -30,26 +30,26 @@
     <string name="touchkey_timeout_title_head">Timer retroilluminazione</string>
     <string name="touchkey_timeout_summary_head">Imposta l\'intervallo dopo cui la retroilluminazione dei tasti si spegne</string>
 	<!-- CRT -->
-	<string name="crt_off_subcat_title">Effetto CRT Spegnimento Schermo</string>
+    <string name="crt_off_subcat_title">Effetto CRT Spegnimento Schermo</string>
     <string name="crt_off_title_head">Ritarda Sospensione</string>
     <string name="crt_off_summary_head">Abilita / Disabilita il ritardamento della sospensione dello schermo, abiliterà l\'effetto CRT</string>
     <string name="crt_off_delay_title_head">Ritardo in ms</string>
     <string name="crt_off_delay_summary_head">Millisecondi da aspettare prima di spegnere lo schermo</string>
 	<!-- **USB** -->
-	<string name="category_usb_title">Usb</string>
+    <string name="category_usb_title">Usb</string>
 	<!-- OTG -->
-	<string name="otg_subcat_title">Impostazioni USB OTG</string>
+    <string name="otg_subcat_title">Impostazioni USB OTG</string>
     <string name="otg_power_title_head">Attivazione USB-OTG</string>
     <string name="otg_power_summary_head">Abilita alimentazione (in uscita) della porta USB</string>
 	<!-- Caricabatterie -->
-	<string name="cc_subcat_title">Controllo Caricabatterie</string>
-	<string name="ac_cc_title_head">Voltaggio Caricabatterie</string>
+    <string name="cc_subcat_title">Controllo Caricabatterie</string>
+    <string name="ac_cc_title_head">Voltaggio Caricabatterie</string>
     <string name="ac_cc_summary_head">Voltaggio caricabatterie in mAh, bassi livelli proteggono la batteria ma è richiesto maggior tempo per la ricarica, alte frequenze potrebbero danneggiare la durata della batteria</string>
-	<string name="usb_cc_title_head">Voltaggio Caricabatterie USB</string>
+    <string name="usb_cc_title_head">Voltaggio Caricabatterie USB</string>
     <string name="usb_cc_summary_head">Voltaggio carica USB in mAh, utile per implementare la ricarica veloce, bassi livelli proteggono la batteria ma è richiesto maggior tempo per la ricarica, alte frequenze potrebbero danneggiare la durata della batteria</string>
 	<!-- Altro->Riordinare prossima release -->
 	<!-- GPU -->
-	<string name="gpu_subcat_title">GPU</string>
+    <string name="gpu_subcat_title">GPU</string>
     <string name="mali_l2_mr_title_head">Mali L2 Letture Massime</string>
     <string name="mali_l2_mr_summary_head">Aumentandole potrebbero migliorare le performance grafiche.</string>
     <string name="mali_pam_title_head">Grandezza memoria Mali pre-allocata</string>
@@ -57,6 +57,6 @@
 	<!-- Fsync -->
     <string name="fsync_subcat_title">FSync</string>
     <string name="fsync_title_head">Modalità FSync</string>
-    <string name="fsync_summary_head">Disabilitando fsync puoi incrementare le performance I/O, ma potrebbe causare la corruzione di dati. L\'Fsync dinamico sincronizzerà i buffers quando lo schermo si spegnerà.</string>
+    <string name="fsync_summary_head">Disabilitando fsync puoi incrementare le performance I/O, ma questo potrebbe causare la corruzione di dati. L\'Fsync dinamico sincronizzerà i buffers quando lo schermo si spegnerà.</string>
 </resources>
 
