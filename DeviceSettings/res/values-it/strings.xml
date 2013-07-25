@@ -59,8 +59,8 @@
     <string name="mali_pam_summary_head">Aumentandola potrebbero migliorare le performance grafiche.</string>
 
     <!-- CATEGORY: MMC -->
-    <string name="mmc_subcat_title">MMC</string>
+    <string name="mmc_subcat_title">Scheda SD</string>
     <string name="use_spi_crc_title_head">Disabilita SPI CRC</string>
-    <string name="use_spi_crc_summary_head">Disabilitando lo SPI CRC, possono migliorare le performance mmc (10% - 30%) ma il telefono potrebbe freezare in modo casuale</string>
+    <string name="use_spi_crc_summary_head">Disabilitando lo SPI CRC, possono migliorare le performance della Scheda SD (10% - 30%) ma il telefono potrebbe freezare in modo casuale</string>
 
 </resources>
