@@ -21,9 +21,6 @@
      for different hardware and product builds. -->
 <resources>
 
-    <!-- Disabled to activate electron beam animation (CRT-OFF) -->
-    <bool name="config_animateScreenLights">false</bool>
-
     <integer name="config_deskDockKeepsScreenOn">0</integer>
     <integer name="config_carDockKeepsScreenOn">1</integer>
 
@@ -104,9 +101,6 @@
         <item>5</item>
         <item>7</item>
     </integer-array>
-    
-    <!-- Boolean indicating whether the wifi chipset has p2p support -->
-    <bool translatable="false" name="config_wifi_p2p_support">true</bool>
 
     <!-- Boolean indicating whether the wifi chipset has dual frequency band support -->
     <bool translatable="false" name="config_wifi_dual_band_support">true</bool>
@@ -202,5 +196,14 @@
     
     <!-- Boolean to enable stk functionality on Samsung phones -->
     <bool name="config_samsung_stk">true</bool>
+	
+    <!-- Device supports LED flashlight -->
+    <bool name="config_enableTorch">true</bool>
+    
+    <!-- True will enable the electron beam screen-off animation. -->
+    <bool name="config_screenOffAnimation">true</bool>
+    
+    <!-- Disabled to activate electron beam animation (CRT-OFF) -->
+    <bool name="config_animateScreenLights">false</bool>
 
 </resources>
