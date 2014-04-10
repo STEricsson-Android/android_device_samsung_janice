@@ -1,4 +1,4 @@
-/*
+k/*
  * Copyright (C) 2012 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -34,7 +34,7 @@ public class ScreenFragmentActivity extends PreferenceFragment {
 
 	private static final String TAG = "GalaxySAdvance_Settings_Screen";
 	
-	private static final String FILE_SWEEP2WAKE = "/sys/kernel/bt404/sweep2wake";
+	private static final String FILE_SWEEP2WAKE = "/sys/kernel/mxt224e/sweep2wake";
 
 
 	@Override
