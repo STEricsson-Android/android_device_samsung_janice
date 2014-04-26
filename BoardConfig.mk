@@ -1,6 +1,6 @@
 -include device/samsung/u8500-common/BoardCommonConfig.mk
 
-TARGET_OTA_ASSERT_DEVICE := janice,i9070,GT-I9070
+TARGET_OTA_ASSERT_DEVICE := janice,i9070,GT-I9070,janicep,i9070p,GT-I9070P
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/u8500
