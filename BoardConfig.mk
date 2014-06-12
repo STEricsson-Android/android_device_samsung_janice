@@ -17,6 +17,9 @@ BOARD_HAS_VIBRATOR_IMPLEMENTATION := ../../device/samsung/janice/vibrator/vibrat
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/janice/rootdir/fstab.samsungjanice
 
+# Releasetools
+TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/janice
+
 # Hardware tunables (device parts replacement)
 BOARD_HARDWARE_CLASS := device/samsung/janice/cmhw
 
